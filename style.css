@@ -1,0 +1,121 @@
+.topbar{
+    background-color:rgb(210, 210, 211);
+    height: 50px;
+    display: block;
+    width: 970px;
+    margin: 0px auto;
+}
+
+.name{
+    font-size:36px;
+    font-family: papyrus;
+    margin-left: 15px;
+}
+
+.witty{
+    font-size:36px;
+    font-family:impact;
+    margin-left: 250px;
+}
+
+.mainbox{
+    background-color:rgb(128, 9, 128);
+    display: block;
+    margin: 0px auto;
+    padding: 10px;
+    width: 950px;
+}
+
+.box1{
+    height: 275px;
+    width: 440px;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    background-color: white;
+}
+
+.boxbar{
+    background-color: gray;
+    height: 40px;
+    position: relative;
+    top: -20px;
+}
+
+#bar1{
+    position:relative;
+    /*top: -20px;*/
+    padding: 0px;
+}
+
+h2{
+    color: white;
+    margin-left: 10px;
+    position: relative;
+    top:5px;
+}
+
+#about{
+    position:relative;
+    top:5px;
+}
+
+.boxtext{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.link{
+    text-decoration:underline;
+}
+
+.midbox{
+    background-color: white;
+    display: inline-block;
+    margin: 10px 10px 0px 10px;
+    width: 293px;
+    height: 400px;
+}
+
+#mid1{
+    position:relative;
+    top:-53px;
+}
+
+#mid2{
+    position:relative;
+    top:-35px;
+}
+
+#lapicture{
+    position:relative;
+    top:-20px;
+}
+
+.botbox{
+    background-color: white;
+    display: inline-block;
+    margin: 0px 10px 10px 10px;
+    width: 293px;
+    position:relative;
+    top:-55px;
+}
+
+.pictures{
+    margin-left:15px;        
+}
+
+.btn{
+    margin-left: 100px;
+    width: 40%; 
+}
+
+.botbar{
+    background-color:rgb(210, 210, 211);
+    height: 50px;
+    display: block;
+    width: 970px;
+    margin: 0px auto;
+    margin-top: -50px;
+    text-align: center;
+}
